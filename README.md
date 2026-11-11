@@ -8,6 +8,7 @@ LinkedIn: <a href="https://www.linkedin.com/in/diego-%C3%A1lvarez-medrano/">
 # Estudios <img width="30"  alt="estudios-icono" src="https://github.com/user-attachments/assets/21dd6279-53eb-4ce0-8859-29d602bba6d4" />
 
 </div>
+
 **TÉCNICO SUPERIOR EN ADMINISTRACIÓN DE SISTEMAS
 INFORMÁTICOS EN RED**
 *Universidad Francisco de Vitoria. Pozuelo de Alarcón, Madrid
@@ -26,6 +27,7 @@ MULTIPLATAFORMA**
 # Empleos <img width="30" alt="image" src="https://github.com/user-attachments/assets/9fbdc740-da57-4d23-9fc4-235de0a63ead" />
 
 </div>
+
 **CONSULTOR DE POWER PLATFORM**
 *REMICA. Madrid | Ene 2026 - Mayo 2026*
 
@@ -40,6 +42,7 @@ MULTIPLATAFORMA**
 # Cursos <img width="30" alt="image" src="https://github.com/user-attachments/assets/baebc605-b806-43ec-921a-d740d0843d00" />
 
 </div>
+
 * PROGRAMACIÓN DE APLICACIONES ORIENTADAS A
 OBJETOS, IFCD043PO
 *(DIGNITAE, 60 horas, 2026)*
