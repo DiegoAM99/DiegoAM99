@@ -30,7 +30,8 @@ MULTIPLATAFORMA**
 *ACCENTURE. Pozuelo de Alarcón, Madrid
 | Abr 2019 - Jun 2019*
 
-# Cursos
+# Cursos <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/baebc605-b806-43ec-921a-d740d0843d00" />
+
 
 * PROGRAMACIÓN DE APLICACIONES ORIENTADAS A
 OBJETOS, IFCD043PO
