@@ -2,7 +2,7 @@
 | Nombre: Diego Álvarez Medrano | <a href="https://www.linkedin.com/in/diego-%C3%A1lvarez-medrano/">
   <img src="https://imgs.search.brave.com/Rmgg7hbbiUrZ5aL9Wce5zb2XuP_twM2qz_7n7JPmygA/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9sb2dv/bWFrZXJyLmFpL2Js/b2cvd3AtY29udGVu/dC91cGxvYWRzLzIw/MjQvMDcvaW1hZ2Ut/NTMucG5n" width="50" alt="Mi LinkedIn">
 </a>
-# Estudios <img src="https://imgs.search.brave.com/9huelqz1zS1Bc1_Hc62G9UL01T2u86lcbfvlCPv1lJQ/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pbWcu/aWNvbnM4Lm/NvbS9n/bHlwaC1uZXhVlLzEy/MDAvZWR1Y2F0aW9u/LmpwZw" width="50" alt="Logo">
+# Estudios <img src="https://cdn-icons-png.flaticon.com/512/31/31080.png" width="50" align="middle" alt="Logo">
 **TÉCNICO SUPERIOR EN ADMINISTRACIÓN DE SISTEMAS
 INFORMÁTICOS EN RED**
 *Universidad Francisco de Vitoria. Pozuelo de Alarcón, Madrid
