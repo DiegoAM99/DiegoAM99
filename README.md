@@ -1,4 +1,5 @@
-# CURRICULUM VITAE <a href="https://www.linkedin.com/in/diego-%C3%A1lvarez-medrano/overlay/1790241703163/single-media-viewer/?profileId=ACoAAET1xwEBxqv-zP8rn7ms4g-J6GPpY5RInG8](https://media.licdn.com/dms/image/v2/D4E2DAQEJUyxXY0D3Fw/profile-treasury-document-images_1920/B4EaDSuCGzHQAk-/1/1790241678622?e=1795046400&v=beta&t=yAu2GJtcj9B0IQ6FizIil-51Yk4GPH-i07fuK7VeGTk)"><img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/fc92bde1-0d9e-40c7-a2e4-f2a089528aa5" /></a>
+# CURRICULUM VITAE <img width="736" height="1924" alt="image" src="https://github.com/user-attachments/assets/eea19267-3bc0-41cb-b11c-e2f92c6bc570" />
+
 | Nombre: Diego Álvarez Medrano | <a href="https://www.linkedin.com/in/diego-%C3%A1lvarez-medrano/">
   <img src="https://imgs.search.brave.com/Rmgg7hbbiUrZ5aL9Wce5zb2XuP_twM2qz_7n7JPmygA/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9sb2dv/bWFrZXJyLmFpL2Js/b2cvd3AtY29udGVu/dC91cGxvYWRzLzIw/MjQvMDcvaW1hZ2Ut/NTMucG5n" width="50" alt="Mi LinkedIn">
 </a>
