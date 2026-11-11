@@ -21,9 +21,11 @@ INFORMÁTICOS EN RED**
 MULTIPLATAFORMA**
 *Universidad Francisco de Vitoria. Pozuelo de Alarcón, Madrid
 | Sep 2017 - Jun 2019*
-
+<div align="center">
+  
 # Empleos <img width="30" alt="image" src="https://github.com/user-attachments/assets/9fbdc740-da57-4d23-9fc4-235de0a63ead" />
 
+</div>
 **CONSULTOR DE POWER PLATFORM**
 *REMICA. Madrid | Ene 2026 - Mayo 2026*
 
@@ -33,10 +35,11 @@ MULTIPLATAFORMA**
 **Becario**
 *ACCENTURE. Pozuelo de Alarcón, Madrid
 | Abr 2019 - Jun 2019*
-
+<div align="center">
+  
 # Cursos <img width="30" alt="image" src="https://github.com/user-attachments/assets/baebc605-b806-43ec-921a-d740d0843d00" />
 
-
+</div>
 * PROGRAMACIÓN DE APLICACIONES ORIENTADAS A
 OBJETOS, IFCD043PO
 *(DIGNITAE, 60 horas, 2026)*
