@@ -1,6 +1,6 @@
 # CURRICULUM VITAE <a href="https://media.licdn.com/dms/image/v2/D4E2DAQEJUyxXY0D3Fw/profile-treasury-document-images_1920/B4EaDSuCGzHQAk-/1/1790241678622?e=1795046400&v=beta&t=yAu2GJtcj9B0IQ6FizIil-51Yk4GPH-i07fuK7VeGTk"><img width="30" alt="image" src="https://github.com/user-attachments/assets/cd0c15a8-f389-4029-ba69-ca929af79cee" /></a>
  <div align="center"> <img width="200" alt="PXL_20250716_111125738 MP" src="https://github.com/user-attachments/assets/ae70cca9-f8d2-4400-8e5f-e3ae292c0176" /><br>
-Nombre: Diego  <br>
+Nombre: Diego <br>
 Apellidos: Álvarez Medrano <br>
 LinkedIn: <a href="https://www.linkedin.com/in/diego-%C3%A1lvarez-medrano/">
   <img src="https://imgs.search.brave.com/Rmgg7hbbiUrZ5aL9Wce5zb2XuP_twM2qz_7n7JPmygA/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9sb2dv/bWFrZXJyLmFpL2Js/b2cvd3AtY29udGVu/dC91cGxvYWRzLzIw/MjQvMDcvaW1hZ2Ut/NTMucG5n" width="20" alt="Mi LinkedIn">
