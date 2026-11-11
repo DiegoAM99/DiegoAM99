@@ -3,8 +3,8 @@ Nombre: Diego Álvarez Medrano <br>
 LinkedIn: <a href="https://www.linkedin.com/in/diego-%C3%A1lvarez-medrano/">
   <img src="https://imgs.search.brave.com/Rmgg7hbbiUrZ5aL9Wce5zb2XuP_twM2qz_7n7JPmygA/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9sb2dv/bWFrZXJyLmFpL2Js/b2cvd3AtY29udGVu/dC91cGxvYWRzLzIw/MjQvMDcvaW1hZ2Ut/NTMucG5n" width="20" alt="Mi LinkedIn">
 </a>
-<align="center">
-# Estudios <img width="30"  alt="estudios-icono" src="https://github.com/user-attachments/assets/21dd6279-53eb-4ce0-8859-29d602bba6d4" />
+
+<align="center"># Estudios <img width="30"  alt="estudios-icono" src="https://github.com/user-attachments/assets/21dd6279-53eb-4ce0-8859-29d602bba6d4" />
 
 **TÉCNICO SUPERIOR EN ADMINISTRACIÓN DE SISTEMAS
 INFORMÁTICOS EN RED**
