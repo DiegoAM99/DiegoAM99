@@ -5,6 +5,9 @@ LinkedIn: <a href="https://www.linkedin.com/in/diego-%C3%A1lvarez-medrano/">
   <img src="https://imgs.search.brave.com/Rmgg7hbbiUrZ5aL9Wce5zb2XuP_twM2qz_7n7JPmygA/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9sb2dv/bWFrZXJyLmFpL2Js/b2cvd3AtY29udGVu/dC91cGxvYWRzLzIw/MjQvMDcvaW1hZ2Ut/NTMucG5n" width="20" alt="Mi LinkedIn">
 </a>
 <div align="center">
+
+<div align="right"> <img width="2160" height="3840" alt="PXL_20250716_111125738 MP" src="https://github.com/user-attachments/assets/ae70cca9-f8d2-4400-8e5f-e3ae292c0176" />
+</div>
   
 # Estudios <img width="30"  alt="estudios-icono" src="https://github.com/user-attachments/assets/21dd6279-53eb-4ce0-8859-29d602bba6d4" />
 
