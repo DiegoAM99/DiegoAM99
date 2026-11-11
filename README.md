@@ -19,7 +19,7 @@ MULTIPLATAFORMA**
 *Universidad Francisco de Vitoria. Pozuelo de Alarcón, Madrid
 | Sep 2017 - Jun 2019*
 
-# Empleos <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/9fbdc740-da57-4d23-9fc4-235de0a63ead" />
+# Empleos <img width="30" alt="image" src="https://github.com/user-attachments/assets/9fbdc740-da57-4d23-9fc4-235de0a63ead" />
 
 **CONSULTOR DE POWER PLATFORM**
 *REMICA. Madrid | Ene 2026 - Mayo 2026*
