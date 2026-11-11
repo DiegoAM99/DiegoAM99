@@ -2,7 +2,7 @@
 | Nombre: Diego Álvarez Medrano | <a href="https://www.linkedin.com/in/diego-%C3%A1lvarez-medrano/">
   <img src="https://imgs.search.brave.com/Rmgg7hbbiUrZ5aL9Wce5zb2XuP_twM2qz_7n7JPmygA/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9sb2dv/bWFrZXJyLmFpL2Js/b2cvd3AtY29udGVu/dC91cGxvYWRzLzIw/MjQvMDcvaW1hZ2Ut/NTMucG5n" width="50" alt="Mi LinkedIn">
 </a>
-# Estudios <img src="https://cdn-icons-png.flaticon.com/512/31/31080.png" width="50" align="middle" alt="Logo">
+# Estudios <img src="https://cdn-icons-png.flaticon.com/512/31/31080.png](https://imgs.search.brave.com/L9ETuiovxKudPKdrI7Y0aDc-fEeMrSeu3qFs78sUfn8/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly90aHVt/YnMuZHJlYW1zdGlt/ZS5jb20vYi9pY29u/by12ZWN0b3JpYWwt/ZGUtZXN0dWRpby1z/aWduby1pbHVzdHJh/Y2klQzMlQjNuLXVu/aXZlcnNpdGFyaWEt/cyVDMyVBRG1ib2xv/LWVzY29sYXItbG9n/b3RpcG8tZWR1Y2Fj/aSVDMyVCM24tNDIz/ODcyMDYwLmpwZw)" width="50" align="middle" alt="Logo">
 **TÉCNICO SUPERIOR EN ADMINISTRACIÓN DE SISTEMAS
 INFORMÁTICOS EN RED**
 *Universidad Francisco de Vitoria. Pozuelo de Alarcón, Madrid
